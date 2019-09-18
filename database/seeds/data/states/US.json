@@ -1,0 +1,238 @@
+[
+  {
+    "name": "Alabama",
+    "iso_3166_2": "AL"
+  },
+  {
+    "name": "Alaska",
+    "iso_3166_2": "AK"
+  },
+  {
+    "name": "American Samoa",
+    "iso_3166_2": "AS"
+  },
+  {
+    "name": "Arizona",
+    "iso_3166_2": "AZ"
+  },
+  {
+    "name": "Arkansas",
+    "iso_3166_2": "AR"
+  },
+  {
+    "name": "California",
+    "iso_3166_2": "CA"
+  },
+  {
+    "name": "Colorado",
+    "iso_3166_2": "CO"
+  },
+  {
+    "name": "Connecticut",
+    "iso_3166_2": "CT"
+  },
+  {
+    "name": "Delaware",
+    "iso_3166_2": "DE"
+  },
+  {
+    "name": "District Of Columbia",
+    "iso_3166_2": "DC"
+  },
+  {
+    "name": "Federated States Of Micronesia",
+    "iso_3166_2": "FM"
+  },
+  {
+    "name": "Florida",
+    "iso_3166_2": "FL"
+  },
+  {
+    "name": "Georgia",
+    "iso_3166_2": "GA"
+  },
+  {
+    "name": "Guam",
+    "iso_3166_2": "GU"
+  },
+  {
+    "name": "Hawaii",
+    "iso_3166_2": "HI"
+  },
+  {
+    "name": "Idaho",
+    "iso_3166_2": "ID"
+  },
+  {
+    "name": "Illinois",
+    "iso_3166_2": "IL"
+  },
+  {
+    "name": "Indiana",
+    "iso_3166_2": "IN"
+  },
+  {
+    "name": "Iowa",
+    "iso_3166_2": "IA"
+  },
+  {
+    "name": "Kansas",
+    "iso_3166_2": "KS"
+  },
+  {
+    "name": "Kentucky",
+    "iso_3166_2": "KY"
+  },
+  {
+    "name": "Louisiana",
+    "iso_3166_2": "LA"
+  },
+  {
+    "name": "Maine",
+    "iso_3166_2": "ME"
+  },
+  {
+    "name": "Marshall Islands",
+    "iso_3166_2": "MH"
+  },
+  {
+    "name": "Maryland",
+    "iso_3166_2": "MD"
+  },
+  {
+    "name": "Massachusetts",
+    "iso_3166_2": "MA"
+  },
+  {
+    "name": "Michigan",
+    "iso_3166_2": "MI"
+  },
+  {
+    "name": "Minnesota",
+    "iso_3166_2": "MN"
+  },
+  {
+    "name": "Mississippi",
+    "iso_3166_2": "MS"
+  },
+  {
+    "name": "Missouri",
+    "iso_3166_2": "MO"
+  },
+  {
+    "name": "Montana",
+    "iso_3166_2": "MT"
+  },
+  {
+    "name": "Nebraska",
+    "iso_3166_2": "NE"
+  },
+  {
+    "name": "Nevada",
+    "iso_3166_2": "NV"
+  },
+  {
+    "name": "New Hampshire",
+    "iso_3166_2": "NH"
+  },
+  {
+    "name": "New Jersey",
+    "iso_3166_2": "NJ"
+  },
+  {
+    "name": "New Mexico",
+    "iso_3166_2": "NM"
+  },
+  {
+    "name": "New York",
+    "iso_3166_2": "NY"
+  },
+  {
+    "name": "North Carolina",
+    "iso_3166_2": "NC"
+  },
+  {
+    "name": "North Dakota",
+    "iso_3166_2": "ND"
+  },
+  {
+    "name": "Northern Mariana Islands",
+    "iso_3166_2": "MP"
+  },
+  {
+    "name": "Ohio",
+    "iso_3166_2": "OH"
+  },
+  {
+    "name": "Oklahoma",
+    "iso_3166_2": "OK"
+  },
+  {
+    "name": "Oregon",
+    "iso_3166_2": "OR"
+  },
+  {
+    "name": "Palau",
+    "iso_3166_2": "PW"
+  },
+  {
+    "name": "Pennsylvania",
+    "iso_3166_2": "PA"
+  },
+  {
+    "name": "Puerto Rico",
+    "iso_3166_2": "PR"
+  },
+  {
+    "name": "Rhode Island",
+    "iso_3166_2": "RI"
+  },
+  {
+    "name": "South Carolina",
+    "iso_3166_2": "SC"
+  },
+  {
+    "name": "South Dakota",
+    "iso_3166_2": "SD"
+  },
+  {
+    "name": "Tennessee",
+    "iso_3166_2": "TN"
+  },
+  {
+    "name": "Texas",
+    "iso_3166_2": "TX"
+  },
+  {
+    "name": "Utah",
+    "iso_3166_2": "UT"
+  },
+  {
+    "name": "Vermont",
+    "iso_3166_2": "VT"
+  },
+  {
+    "name": "Virgin Islands",
+    "iso_3166_2": "VI"
+  },
+  {
+    "name": "Virginia",
+    "iso_3166_2": "VA"
+  },
+  {
+    "name": "Washington",
+    "iso_3166_2": "WA"
+  },
+  {
+    "name": "West Virginia",
+    "iso_3166_2": "WV"
+  },
+  {
+    "name": "Wisconsin",
+    "iso_3166_2": "WI"
+  },
+  {
+    "name": "Wyoming",
+    "iso_3166_2": "WY"
+  }
+]

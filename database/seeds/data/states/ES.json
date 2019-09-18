@@ -1,0 +1,186 @@
+[
+  {
+    "name": "La Coruña",
+    "iso_3166_2": "C"
+  },
+  {
+    "name": "Lugo",
+    "iso_3166_2": "LU"
+  },
+  {
+    "name": "Vizcaya",
+    "iso_3166_2": "BI"
+  },
+  {
+    "name": "Guipúzcoa",
+    "iso_3166_2": "SS"
+  },
+  {
+    "name": "Huesca",
+    "iso_3166_2": "HU"
+  },
+  {
+    "name": "Lérida",
+    "iso_3166_2": "L"
+  },
+  {
+    "name": "Gerona",
+    "iso_3166_2": "GI"
+  },
+  {
+    "name": "Barcelona",
+    "iso_3166_2": "B"
+  },
+  {
+    "name": "Tarragona",
+    "iso_3166_2": "T"
+  },
+  {
+    "name": "Castellón",
+    "iso_3166_2": "CS"
+  },
+  {
+    "name": "Valencia",
+    "iso_3166_2": "V"
+  },
+  {
+    "name": "Alicante",
+    "iso_3166_2": "A"
+  },
+  {
+    "name": "Murcia",
+    "iso_3166_2": "MU"
+  },
+  {
+    "name": "Zaragoza",
+    "iso_3166_2": "Z"
+  },
+  {
+    "name": "Teruel",
+    "iso_3166_2": "TE"
+  },
+  {
+    "name": "Cuenca",
+    "iso_3166_2": "CU"
+  },
+  {
+    "name": "Albacete",
+    "iso_3166_2": "AB"
+  },
+  {
+    "name": "Almeria",
+    "iso_3166_2": "AL"
+  },
+  {
+    "name": "Granada",
+    "iso_3166_2": "GR"
+  },
+  {
+    "name": "Málaga",
+    "iso_3166_2": "MA"
+  },
+  {
+    "name": "Tenerife",
+    "iso_3166_2": "TF"
+  },
+  {
+    "name": "Cádiz",
+    "iso_3166_2": "CA"
+  },
+  {
+    "name": "Sevilla",
+    "iso_3166_2": "SE"
+  },
+  {
+    "name": "Huelva",
+    "iso_3166_2": "H"
+  },
+  {
+    "name": "Las Palmas",
+    "iso_3166_2": "GC"
+  },
+  {
+    "name": "Madrid",
+    "iso_3166_2": "M"
+  },
+  {
+    "name": "Badajoz",
+    "iso_3166_2": "BA"
+  },
+  {
+    "name": "Cáceres",
+    "iso_3166_2": "CC"
+  },
+  {
+    "name": "Toledo",
+    "iso_3166_2": "TO"
+  },
+  {
+    "name": "Ciudad Real",
+    "iso_3166_2": "CR"
+  },
+  {
+    "name": "Salamanca",
+    "iso_3166_2": "SA"
+  },
+  {
+    "name": "Córdoba",
+    "iso_3166_2": "CO"
+  },
+  {
+    "name": "Jaén",
+    "iso_3166_2": "J"
+  },
+  {
+    "name": "Ávila",
+    "iso_3166_2": "AV"
+  },
+  {
+    "name": "Valladolid",
+    "iso_3166_2": "VA"
+  },
+  {
+    "name": "Zamora",
+    "iso_3166_2": "ZA"
+  },
+  {
+    "name": "Álava",
+    "iso_3166_2": "VI"
+  },
+  {
+    "name": "Segovia",
+    "iso_3166_2": "SG"
+  },
+  {
+    "name": "Burgos",
+    "iso_3166_2": "BU"
+  },
+  {
+    "name": "Pontevedra",
+    "iso_3166_2": "PO"
+  },
+  {
+    "name": "León",
+    "iso_3166_2": "LE"
+  },
+  {
+    "name": "Orense",
+    "iso_3166_2": "OU"
+  },
+  {
+    "name": "Palencia",
+    "iso_3166_2": "P"
+  },
+  {
+    "name": "La Rioja",
+    "iso_3166_2": "LO"
+  },
+  {
+    "name": "Soria",
+    "iso_3166_2": "SO"
+  },
+  {
+    "name": "Guadalajara",
+    "iso_3166_2": "GU"
+  }
+]

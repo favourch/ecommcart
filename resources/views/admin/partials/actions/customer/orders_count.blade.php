@@ -1,0 +1,1 @@
+<span class="label label-default">{{ $customer->orders_count }}</span>

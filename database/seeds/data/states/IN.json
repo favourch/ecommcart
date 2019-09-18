@@ -1,0 +1,146 @@
+[
+  {
+    "iso_3166_2": "AP",
+    "name": "Andhra Pradesh"
+  },
+  {
+    "iso_3166_2": "AR",
+    "name": "Arunachal Pradesh"
+  },
+  {
+    "iso_3166_2": "AS",
+    "name": "Assam"
+  },
+  {
+    "iso_3166_2": "BR",
+    "name": "Bihar"
+  },
+  {
+    "iso_3166_2": "CT",
+    "name": "Chhattisgarh"
+  },
+  {
+    "iso_3166_2": "GA",
+    "name": "Goa"
+  },
+  {
+    "iso_3166_2": "GJ",
+    "name": "Gujarat"
+  },
+  {
+    "iso_3166_2": "HR",
+    "name": "Haryana"
+  },
+  {
+    "iso_3166_2": "HP",
+    "name": "Himachal Pradesh"
+  },
+  {
+    "iso_3166_2": "JK",
+    "name": "Jammu and Kashmir"
+  },
+  {
+    "iso_3166_2": "JH",
+    "name": "Jharkhand"
+  },
+  {
+    "iso_3166_2": "KA",
+    "name": "Karnataka"
+  },
+  {
+    "iso_3166_2": "KL",
+    "name": "Kerala"
+  },
+  {
+    "iso_3166_2": "MP",
+    "name": "Madhya Pradesh"
+  },
+  {
+    "iso_3166_2": "MH",
+    "name": "Maharashtra"
+  },
+  {
+    "iso_3166_2": "MN",
+    "name": "Manipur"
+  },
+  {
+    "iso_3166_2": "ML",
+    "name": "Meghalaya"
+  },
+  {
+    "iso_3166_2": "MZ",
+    "name": "Mizoram"
+  },
+  {
+    "iso_3166_2": "NL",
+    "name": "Nagaland"
+  },
+  {
+    "iso_3166_2": "OR",
+    "name": "Odisha"
+  },
+  {
+    "iso_3166_2": "PB",
+    "name": "Punjab"
+  },
+  {
+    "iso_3166_2": "RJ",
+    "name": "Rajasthan"
+  },
+  {
+    "iso_3166_2": "SK",
+    "name": "Sikkim"
+  },
+  {
+    "iso_3166_2": "TN",
+    "name": "Tamil Nadu"
+  },
+  {
+    "iso_3166_2": "TG",
+    "name": "Telangana"
+  },
+  {
+    "iso_3166_2": "TR",
+    "name": "Tripura"
+  },
+  {
+    "iso_3166_2": "UP",
+    "name": "Uttar Pradesh"
+  },
+  {
+    "iso_3166_2": "UT",
+    "name": "Uttarakhand"
+  },
+  {
+    "iso_3166_2": "WB",
+    "name": "West Bengal"
+  },
+  {
+    "iso_3166_2": "AN",
+    "name": "Andaman and Nicobar Islands"
+  },
+  {
+    "iso_3166_2": "CH",
+    "name": "Chandigarh"
+  },
+  {
+    "iso_3166_2": "DN",
+    "name": "Dadra and Nagar Haveli"
+  },
+  {
+    "iso_3166_2": "DD",
+    "name": "Daman and Diu"
+  },
+  {
+    "iso_3166_2": "LD",
+    "name": "Lakshadweep"
+  },
+  {
+    "iso_3166_2": "DL",
+    "name": "National Capital Territory of Delhi"
+  },
+  {
+    "iso_3166_2": "PY",
+    "name": "Puducherry"
+  }
+]

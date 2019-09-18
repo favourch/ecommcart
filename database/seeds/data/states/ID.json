@@ -1,0 +1,138 @@
+[
+  {
+    "iso_3166_2": "AC",
+    "name": "Special Region of Aceh"
+  },
+  {
+    "iso_3166_2": "BA",
+    "name": "Bali"
+  },
+  {
+    "iso_3166_2": "BB",
+    "name": "Bangka–Belitung Islands"
+  },
+  {
+    "iso_3166_2": "BT",
+    "name": "Banten"
+  },
+  {
+    "iso_3166_2": "BE",
+    "name": "Bengkulu"
+  },
+  {
+    "iso_3166_2": "JT",
+    "name": "Central Java"
+  },
+  {
+    "iso_3166_2": "KT",
+    "name": "Central Kalimantan"
+  },
+  {
+    "iso_3166_2": "ST",
+    "name": "Central Sulawesi"
+  },
+  {
+    "iso_3166_2": "JI",
+    "name": "East Java"
+  },
+  {
+    "iso_3166_2": "KI",
+    "name": "East Kalimantan"
+  },
+  {
+    "iso_3166_2": "NT",
+    "name": "East Nusa Tenggara"
+  },
+  {
+    "iso_3166_2": "GO",
+    "name": "Gorontalo"
+  },
+  {
+    "iso_3166_2": "JK",
+    "name": "Jakarta Special Capital Region"
+  },
+  {
+    "iso_3166_2": "JA",
+    "name": "Jambi"
+  },
+  {
+    "iso_3166_2": "LA",
+    "name": "Lampung"
+  },
+  {
+    "iso_3166_2": "MA",
+    "name": "Maluku"
+  },
+  {
+    "iso_3166_2": "KU",
+    "name": "North Kalimantan"
+  },
+  {
+    "iso_3166_2": "MU",
+    "name": "North Maluku"
+  },
+  {
+    "iso_3166_2": "SA",
+    "name": "North Sulawesi"
+  },
+  {
+    "iso_3166_2": "SU",
+    "name": "North Sumatra"
+  },
+  {
+    "iso_3166_2": "PA",
+    "name": "Special Region of Papua"
+  },
+  {
+    "iso_3166_2": "RI",
+    "name": "Riau"
+  },
+  {
+    "iso_3166_2": "KR",
+    "name": "Riau Islands"
+  },
+  {
+    "iso_3166_2": "SG",
+    "name": "Southeast Sulawesi"
+  },
+  {
+    "iso_3166_2": "KS",
+    "name": "South Kalimantan"
+  },
+  {
+    "iso_3166_2": "SN",
+    "name": "South Sulawesi"
+  },
+  {
+    "iso_3166_2": "SS",
+    "name": "South Sumatra"
+  },
+  {
+    "iso_3166_2": "JB",
+    "name": "West Java"
+  },
+  {
+    "iso_3166_2": "KB",
+    "name": "West Kalimantan"
+  },
+  {
+    "iso_3166_2": "NB",
+    "name": "West Nusa Tenggara"
+  },
+  {
+    "iso_3166_2": "PB",
+    "name": "Special Region of West Papua"
+  },
+  {
+    "iso_3166_2": "SR",
+    "name": "West Sulawesi"
+  },
+  {
+    "iso_3166_2": "SB",
+    "name": "West Sumatra"
+  },
+  {
+    "iso_3166_2": "YO",
+    "name": "Special Region of Yogyakarta"
+  }
+]

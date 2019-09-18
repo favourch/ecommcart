@@ -1,0 +1,48 @@
+/*
+ * Very simple jQuery Color Picker
+ * https://github.com/tkrotoff/jquery-simplecolorpicker
+ *
+ * Copyright (C) 2012-2013 Tanguy Krotoff <tkrotoff@gmail.com>
+ *
+ * Licensed under the MIT license
+ */
+
+.simplecolorpicker.inline {
+  display: inline-block;
+}
+
+.simplecolorpicker span {
+  margin: 0 7px 0 0;
+}
+
+.simplecolorpicker.icon,
+.simplecolorpicker span.color {
+  width: 24px;
+  height: 24px;
+  cursor: pointer;
+  display: inline-block;
+  border: 1px solid #444;
+}
+
+.simplecolorpicker.icon:after,
+.simplecolorpicker span.color:after {
+  content: '\00a0\00a0\00a0\00a0'; /* Spaces */
+}
+
+.simplecolorpicker span.color[data-disabled]:hover {
+  cursor: not-allowed;
+  border: 1px solid #f90;
+}
+
+.simplecolorpicker span.color:hover,
+.simplecolorpicker span.color[data-selected] {
+  border: 1px solid #fff;
+  outline: 3px solid #f90;
+}
+.simplecolorpicker span.color[data-selected]:after {
+  color: #ccc;
+}
+.simplecolorpicker span.color:focus,
+.simplecolorpicker span.color:active{
+  outline: 3px solid #f90;
+}

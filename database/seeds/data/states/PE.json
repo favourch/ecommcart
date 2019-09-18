@@ -1,0 +1,590 @@
+[
+  {
+    "name": "Chachapoyas"
+  },
+  {
+    "name": "Bagua"
+  },
+  {
+    "name": "Bongará"
+  },
+  {
+    "name": "Condorcanqui"
+  },
+  {
+    "name": "Luya"
+  },
+  {
+    "name": "Rodríguez de Mendoza"
+  },
+  {
+    "name": "Utcubamba"
+  },
+  {
+    "name": "Huaraz"
+  },
+  {
+    "name": "Aija"
+  },
+  {
+    "name": "Antonio Raymondi"
+  },
+  {
+    "name": "Asunción"
+  },
+  {
+    "name": "Bolognesi"
+  },
+  {
+    "name": "Carhuaz"
+  },
+  {
+    "name": "Carlos Fermín Fitzcarrald"
+  },
+  {
+    "name": "Casma"
+  },
+  {
+    "name": "Corongo"
+  },
+  {
+    "name": "Huari"
+  },
+  {
+    "name": "Huarmey"
+  },
+  {
+    "name": "Huaylas"
+  },
+  {
+    "name": "Mariscal Luzuriaga"
+  },
+  {
+    "name": "Ocros"
+  },
+  {
+    "name": "Pallasca"
+  },
+  {
+    "name": "Pomabamba"
+  },
+  {
+    "name": "Recuay"
+  },
+  {
+    "name": "Santa"
+  },
+  {
+    "name": "Sihuas"
+  },
+  {
+    "name": "Yungay"
+  },
+  {
+    "name": "Abancay"
+  },
+  {
+    "name": "Andahuaylas"
+  },
+  {
+    "name": "Antabamba"
+  },
+  {
+    "name": "Aymaraes"
+  },
+  {
+    "name": "Cotabambas"
+  },
+  {
+    "name": "Chincheros"
+  },
+  {
+    "name": "Grau"
+  },
+  {
+    "name": "Arequipa"
+  },
+  {
+    "name": "Camaná"
+  },
+  {
+    "name": "Caravelí"
+  },
+  {
+    "name": "Castilla"
+  },
+  {
+    "name": "Caylloma"
+  },
+  {
+    "name": "Condesuyos"
+  },
+  {
+    "name": "Islay"
+  },
+  {
+    "name": "La Unión"
+  },
+  {
+    "name": "Huamanga"
+  },
+  {
+    "name": "Cangallo"
+  },
+  {
+    "name": "Huanca Sancos"
+  },
+  {
+    "name": "Huanta"
+  },
+  {
+    "name": "La Mar"
+  },
+  {
+    "name": "Lucanas"
+  },
+  {
+    "name": "Parinacochas"
+  },
+  {
+    "name": "Páucar del Sara Sara"
+  },
+  {
+    "name": "Sucre"
+  },
+  {
+    "name": "Víctor Fajardo"
+  },
+  {
+    "name": "Vilcas Huamán"
+  },
+  {
+    "name": "Cajamarca"
+  },
+  {
+    "name": "Cajabamba"
+  },
+  {
+    "name": "Celendín"
+  },
+  {
+    "name": "Chota"
+  },
+  {
+    "name": "Contumazá"
+  },
+  {
+    "name": "Cutervo"
+  },
+  {
+    "name": "Hualgayoc"
+  },
+  {
+    "name": "Jaén"
+  },
+  {
+    "name": "San Ignacio"
+  },
+  {
+    "name": "San Marcos"
+  },
+  {
+    "name": "San Miguel"
+  },
+  {
+    "name": "San Pablo"
+  },
+  {
+    "name": "Santa Cruz"
+  },
+  {
+    "name": "Callao"
+  },
+  {
+    "name": "Cusco"
+  },
+  {
+    "name": "Acomayo"
+  },
+  {
+    "name": "Anta"
+  },
+  {
+    "name": "Calca"
+  },
+  {
+    "name": "Canas"
+  },
+  {
+    "name": "Canchis"
+  },
+  {
+    "name": "Chumbivilcas"
+  },
+  {
+    "name": "Espinar"
+  },
+  {
+    "name": "La Convención"
+  },
+  {
+    "name": "Paruro"
+  },
+  {
+    "name": "Paucartambo"
+  },
+  {
+    "name": "Quispicanchi"
+  },
+  {
+    "name": "Urubamba"
+  },
+  {
+    "name": "Huancavelica"
+  },
+  {
+    "name": "Acobamba"
+  },
+  {
+    "name": "Angaraes"
+  },
+  {
+    "name": "Castrovirreyna"
+  },
+  {
+    "name": "Churcampa"
+  },
+  {
+    "name": "Huaytará"
+  },
+  {
+    "name": "Tayacaja"
+  },
+  {
+    "name": "Huánuco"
+  },
+  {
+    "name": "Ambo"
+  },
+  {
+    "name": "Dos de Mayo"
+  },
+  {
+    "name": "Huacaybamba"
+  },
+  {
+    "name": "Huamalíes"
+  },
+  {
+    "name": "Leoncio Prado"
+  },
+  {
+    "name": "Marañón"
+  },
+  {
+    "name": "Pachitea"
+  },
+  {
+    "name": "Puerto Inca"
+  },
+  {
+    "name": "Lauricocha"
+  },
+  {
+    "name": "Yarowilca"
+  },
+  {
+    "name": "Ica"
+  },
+  {
+    "name": "Chincha"
+  },
+  {
+    "name": "Nazca"
+  },
+  {
+    "name": "Palpa"
+  },
+  {
+    "name": "Pisco"
+  },
+  {
+    "name": "Huancayo"
+  },
+  {
+    "name": "Concepción"
+  },
+  {
+    "name": "Chanchamayo"
+  },
+  {
+    "name": "Jauja"
+  },
+  {
+    "name": "Junín"
+  },
+  {
+    "name": "Satipo"
+  },
+  {
+    "name": "Tarma"
+  },
+  {
+    "name": "Yauli"
+  },
+  {
+    "name": "Chupaca"
+  },
+  {
+    "name": "Trujillo"
+  },
+  {
+    "name": "Ascope"
+  },
+  {
+    "name": "Bolívar"
+  },
+  {
+    "name": "Chepén"
+  },
+  {
+    "name": "Julcán"
+  },
+  {
+    "name": "Otuzco"
+  },
+  {
+    "name": "Pacasmayo"
+  },
+  {
+    "name": "Pataz"
+  },
+  {
+    "name": "Sánchez Carrión"
+  },
+  {
+    "name": "Santiago de Chuco"
+  },
+  {
+    "name": "Gran Chimú"
+  },
+  {
+    "name": "Virú"
+  },
+  {
+    "name": "Chiclayo"
+  },
+  {
+    "name": "Ferreñafe"
+  },
+  {
+    "name": "Lambayeque"
+  },
+  {
+    "name": "Lima"
+  },
+  {
+    "name": "Huaura"
+  },
+  {
+    "name": "Barranca"
+  },
+  {
+    "name": "Cajatambo"
+  },
+  {
+    "name": "Canta"
+  },
+  {
+    "name": "Cañete"
+  },
+  {
+    "name": "Huaral"
+  },
+  {
+    "name": "Huarochirí"
+  },
+  {
+    "name": "Oyón"
+  },
+  {
+    "name": "Yauyos"
+  },
+  {
+    "name": "Maynas"
+  },
+  {
+    "name": "Alto Amazonas"
+  },
+  {
+    "name": "Loreto"
+  },
+  {
+    "name": "Mariscal Ramón Castilla"
+  },
+  {
+    "name": "Putumayo"
+  },
+  {
+    "name": "Requena"
+  },
+  {
+    "name": "Ucayali"
+  },
+  {
+    "name": "Datem del Marañón"
+  },
+  {
+    "name": "Tambopata"
+  },
+  {
+    "name": "Manú"
+  },
+  {
+    "name": "Tahuamanu"
+  },
+  {
+    "name": "Mariscal Nieto"
+  },
+  {
+    "name": "General Sánchez Cerro"
+  },
+  {
+    "name": "Ilo"
+  },
+  {
+    "name": "Pasco"
+  },
+  {
+    "name": "Daniel Alcídes Carrión"
+  },
+  {
+    "name": "Oxapampa"
+  },
+  {
+    "name": "Piura"
+  },
+  {
+    "name": "Ayabaca"
+  },
+  {
+    "name": "Huancabamba"
+  },
+  {
+    "name": "Morropón"
+  },
+  {
+    "name": "Paita"
+  },
+  {
+    "name": "Sullana"
+  },
+  {
+    "name": "Talara"
+  },
+  {
+    "name": "Sechura"
+  },
+  {
+    "name": "Puno"
+  },
+  {
+    "name": "Azángaro"
+  },
+  {
+    "name": "Carabaya"
+  },
+  {
+    "name": "Chucuito"
+  },
+  {
+    "name": "El Collao"
+  },
+  {
+    "name": "Huancané"
+  },
+  {
+    "name": "Lampa"
+  },
+  {
+    "name": "Melgar"
+  },
+  {
+    "name": "Moho"
+  },
+  {
+    "name": "San Antonio de Putina"
+  },
+  {
+    "name": "San Román"
+  },
+  {
+    "name": "Sandia"
+  },
+  {
+    "name": "Yunguyo"
+  },
+  {
+    "name": "Moyobamba"
+  },
+  {
+    "name": "Bellavista"
+  },
+  {
+    "name": "El Dorado"
+  },
+  {
+    "name": "Huallaga"
+  },
+  {
+    "name": "Lamas"
+  },
+  {
+    "name": "Mariscal Cáceres"
+  },
+  {
+    "name": "Picota"
+  },
+  {
+    "name": "Rioja"
+  },
+  {
+    "name": "San Martín"
+  },
+  {
+    "name": "Tocache"
+  },
+  {
+    "name": "Tacna"
+  },
+  {
+    "name": "Candarave"
+  },
+  {
+    "name": "Jorge Basadre"
+  },
+  {
+    "name": "Tarata"
+  },
+  {
+    "name": "Tumbes"
+  },
+  {
+    "name": "Contralmirante Villar"
+  },
+  {
+    "name": "Zarumilla"
+  },
+  {
+    "name": "Coronel Portillo"
+  },
+  {
+    "name": "Atalaya"
+  },
+  {
+    "name": "Padre Abad"
+  },
+  {
+    "name": "Purús"
+  }
+]

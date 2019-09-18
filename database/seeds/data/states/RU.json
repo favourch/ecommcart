@@ -1,0 +1,257 @@
+[
+	{
+		"name" :	"Adygea, Republic of"
+	},
+	{
+		"name" :	"Bashkortostan, Republic of"
+	},
+	{
+		"name" :	"Buryatia, Republic of"
+	},
+	{
+		"name" :	"Altai Republic"
+	},
+	{
+		"name" :	"Dagestan, Republic of"
+	},
+	{
+		"name" :	"Ingushetia, Republic of"
+	},
+	{
+		"name" :	"Kabardino-Balkar Republic"
+	},
+	{
+		"name" :	"Kalmykia, Republic of"
+	},
+	{
+		"name" :	"Karachay-Cherkess Republic"
+	},
+	{
+		"name" :	"Karelia, Republic of"
+	},
+	{
+		"name" :	"Komi Republic"
+	},
+	{
+		"name" :	"Mari El Republic"
+	},
+	{
+		"name" :	"Mordovia, Republic of"
+	},
+	{
+		"name" :	"Sakha (Yakutia) Republic"
+	},
+	{
+		"name" :	"North Ossetia-Alania, Republic of"
+	},
+	{
+		"name" :	"Tatarstan, Republic of"
+	},
+	{
+		"name" :	"Tuva Republic"
+	},
+	{
+		"name" :	"Udmurt Republic"
+	},
+	{
+		"name" :	"Khakassia, Republic of"
+	},
+	{
+		"name" :	"Chechen Republic"
+	},
+	{
+		"name" :	"Chuvash Republic"
+	},
+	{
+		"name" :	"Altai Krai"
+	},
+	{
+		"name" :	"Zabaykalsky Krai"
+	},
+	{
+		"name" :	"Kamchatka Krai"
+	},
+	{
+		"name" :	"Krasnodar Krai"
+	},
+	{
+		"name" :	"Krasnoyarsk Krai"
+	},
+	{
+		"name" :	"Perm Krai"
+	},
+	{
+		"name" :	"Primorsky Krai"
+	},
+	{
+		"name" :	"Stavropol Krai"
+	},
+	{
+		"name" :	"Khabarovsk Krai"
+	},
+	{
+		"name" :	"Amur Oblast"
+	},
+	{
+		"name" :	"Arkhangelsk Oblast"
+	},
+	{
+		"name" :	"Astrakhan Oblast"
+	},
+	{
+		"name" :	"Belgorod Oblast"
+	},
+	{
+		"name" :	"Bryansk Oblast"
+	},
+	{
+		"name" :	"Vladimir Oblast"
+	},
+	{
+		"name" :	"Volgograd Oblast"
+	},
+	{
+		"name" :	"Vologda Oblast"
+	},
+	{
+		"name" :	"Voronezh Oblast"
+	},
+	{
+		"name" :	"Ivanovo Oblast"
+	},
+	{
+		"name" :	"Irkutsk Oblast"
+	},
+	{
+		"name" :	"Kaliningrad Oblast"
+	},
+	{
+		"name" :	"Kaluga Oblast"
+	},
+	{
+		"name" :	"Kemerovo Oblast"
+	},
+	{
+		"name" :	"Kirov Oblast"
+	},
+	{
+		"name" :	"Kostroma Oblast"
+	},
+	{
+		"name" :	"Kurgan Oblast"
+	},
+	{
+		"name" :	"Kursk Oblast"
+	},
+	{
+		"name" :	"Leningrad Oblast"
+	},
+	{
+		"name" :	"Lipetsk Oblast"
+	},
+	{
+		"name" :	"Magadan Oblast"
+	},
+	{
+		"name" :	"Moscow Oblast"
+	},
+	{
+		"name" :	"Murmansk Oblast"
+	},
+	{
+		"name" :	"Nizhny Novgorod Oblast"
+	},
+	{
+		"name" :	"Novgorod Oblast"
+	},
+	{
+		"name" :	"Novosibirsk Oblast"
+	},
+	{
+		"name" :	"Omsk Oblast"
+	},
+	{
+		"name" :	"Orenburg Oblast"
+	},
+	{
+		"name" :	"Oryol Oblast"
+	},
+	{
+		"name" :	"Penza Oblast"
+	},
+	{
+		"name" :	"Pskov Oblast"
+	},
+	{
+		"name" :	"Rostov Oblast"
+	},
+	{
+		"name" :	"Ryazan Oblast"
+	},
+	{
+		"name" :	"Samara Oblast"
+	},
+	{
+		"name" :	"Saratov Oblast"
+	},
+	{
+		"name" :	"Sakhalin Oblast"
+	},
+	{
+		"name" :	"Sverdlovsk Oblast"
+	},
+	{
+		"name" :	"Smolensk Oblast"
+	},
+	{
+		"name" :	"Tambov Oblast"
+	},
+	{
+		"name" :	"Tver Oblast"
+	},
+	{
+		"name" :	"Tomsk Oblast"
+	},
+	{
+		"name" :	"Tula Oblast"
+	},
+	{
+		"name" :	"Tyumen Oblast"
+	},
+	{
+		"name" :	"Ulyanovsk Oblast"
+	},
+	{
+		"name" :	"Chelyabinsk Oblast"
+	},
+	{
+		"name" :	"Yaroslavl Oblast"
+	},
+	{
+		"name" :	"Moscow"
+	},
+	{
+		"name" :	"Saint Petersburg"
+	},
+	{
+		"name" :	"Jewish Autonomous Oblast"
+	},
+	{
+		"name" :	"Nenets Autonomous Okrug"
+	},
+	{
+		"name" :	"Khanty–Mansi Autonomous Okrug – Yugra"
+	},
+	{
+		"name" :	"Chukotka Autonomous Okrug"
+	},
+	{
+		"name" :	"Yamalo-Nenets Autonomous Okrug"
+	},
+	{
+		"name" : "Crimea, Republic of"
+	},
+	{
+		"name" : "Sevastopol"
+	}
+]

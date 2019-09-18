@@ -1,0 +1,10 @@
+{
+    "slug": "default",
+    "name": "Default Storefront theme",
+    "description": "This is good place to start with",
+    "author": "Munna Khan",
+	"email": "bd.munna@hotmail.com",
+	"uri": "https://incevio.com",
+	"license": "Copyright reserved to the Author",
+    "version": "1.1.0"
+}

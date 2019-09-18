@@ -1,0 +1,130 @@
+[
+  {
+    "name": "Aguascalientes",
+    "iso_3166_2": "AG"
+  },
+  {
+    "name": "Baja California",
+    "iso_3166_2": "BC"
+  },
+  {
+    "name": "Baja California Sur",
+    "iso_3166_2": "BS"
+  },
+  {
+    "name": "Campeche",
+    "iso_3166_2": "CM"
+  },
+  {
+    "name": "Chiapas",
+    "iso_3166_2": "CS"
+  },
+  {
+    "name": "Chihuahua",
+    "iso_3166_2": "CH"
+  },
+  {
+    "name": "Coahuila",
+    "iso_3166_2": "MX"
+  },
+  {
+    "name": "Colima",
+    "iso_3166_2": "CL"
+  },
+  {
+    "name": "Federal District",
+    "iso_3166_2": "DF"
+  },
+  {
+    "name": "Durango",
+    "iso_3166_2": "DG"
+  },
+  {
+    "name": "Guanajuato",
+    "iso_3166_2": "GT"
+  },
+  {
+    "name": "Guerrero",
+    "iso_3166_2": "GR"
+  },
+  {
+    "name": "Hidalgo",
+    "iso_3166_2": "HG"
+  },
+  {
+    "name": "Jalisco",
+    "iso_3166_2": "JA"
+  },
+  {
+    "name": "Mexico",
+    "iso_3166_2": "ME"
+  },
+  {
+    "name": "Michoacán",
+    "iso_3166_2": "MI"
+  },
+  {
+    "name": "Morelos",
+    "iso_3166_2": "MO"
+  },
+  {
+    "name": "Nayarit",
+    "iso_3166_2": "NA"
+  },
+  {
+    "name": "Nuevo León",
+    "iso_3166_2": "NL"
+  },
+  {
+    "name": "Oaxaca",
+    "iso_3166_2": "OA"
+  },
+  {
+    "name": "Puebla",
+    "iso_3166_2": "PU"
+  },
+  {
+    "name": "Querétaro",
+    "iso_3166_2": "QE"
+  },
+  {
+    "name": "Quintana Roo",
+    "iso_3166_2": "QR"
+  },
+  {
+    "name": "San Luis Potosí",
+    "iso_3166_2": "SL"
+  },
+  {
+    "name": "Sinaloa",
+    "iso_3166_2": "SI"
+  },
+  {
+    "name": "Sonora",
+    "iso_3166_2": "SO"
+  },
+  {
+    "name": "Tabasco",
+    "iso_3166_2": "TB"
+  },
+  {
+    "name": "Tamaulipas",
+    "iso_3166_2": "TM"
+  },
+  {
+    "name": "Tlaxcala",
+    "iso_3166_2": "TL"
+  },
+  {
+    "name": "Veracruz",
+    "iso_3166_2": "VE"
+  },
+  {
+    "name": "Yucatán",
+    "iso_3166_2": "YU"
+  },
+  {
+    "name": "Zacatecas",
+    "iso_3166_2": "ZA"
+  }
+]

@@ -1,0 +1,16 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/css/app.css": "/css/app.css",
+    "/js/vendor.js": "/js/vendor.js",
+    "/css/vendor.css": "/css/vendor.css",
+    "/js/fileinput.js": "/js/fileinput.js",
+    "/css/fileinput.css": "/css/fileinput.css",
+    "/css/line.png": "/css/line.png",
+    "/css/line@2x.png": "/css/line@2x.png",
+    "/css/blue.png": "/css/blue.png",
+    "/css/blue@2x.png": "/css/blue@2x.png",
+    "/css/flat.png": "/css/flat.png",
+    "/css/flat@2x.png": "/css/flat@2x.png",
+    "/css/pink.png": "/css/pink.png",
+    "/css/pink@2x.png": "/css/pink@2x.png"
+}

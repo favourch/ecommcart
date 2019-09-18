@@ -1,0 +1,3 @@
+"NAME","SLUG","ACTIVE","CATEGORIES","GTIN","GTIN_TYPE","MODEL_NUMBER","BRAND","MPN","DESCRIPTION","MANUFACTURER","ORIGIN_COUNTRY","HAS_VARIANT","REQUIRES_SHIPPING","MINIMUM_PRICE","MAXIMUM_PRICE","IMAGE_LINK","TAGS"
+"Example Product 1","example-product-1",TRUE,"category-1,category-2","9865963632306","UPC","Model 101","ACME",,"A great description of your product","ACME","US",FASLE,TRUE,,,"https://preview.ibb.co/dOsxv8/screenshot.jpg","Tag1,Tag2"
+"Example Product 2","example-product-2",TRUE,"category-3","9865963632306","EAN",,,"PN KSB0422PN","A great description of your product",,"BD",FASLE,TRUE,100,250,,"Tag2,Tag3"

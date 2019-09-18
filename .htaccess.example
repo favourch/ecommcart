@@ -1,0 +1,8 @@
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^(www.)?example.com$
+RewriteCond %{REQUEST_URI} !^/zcart/public/
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ /zcart/public/$1
+RewriteCond %{HTTP_HOST} ^(www.)?example.com$
+RewriteRule ^(/)?$ zcart/public/index.php [L]

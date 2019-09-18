@@ -1,0 +1,47 @@
+[
+  {
+    "question": "Why should I sell on :marketplace?",
+    "answer": "There are many reasons to sell on :marketplace. We have our customers who can see your products to the ability to start selling fast without the need to create a new standalone website. You spend no time and money to do marekting, We do it for you!",
+    "faq_topic_id": 1
+  },
+  {
+    "question": "Where else can I learn about how selling on :marketplace works?",
+    "answer": "We have videos, web docs, and blogs to help you find what you need.<ul><li>Getting Started page</li><li>Training and tutorials</li><li>Blog</li></ul>",
+    "faq_topic_id": 1
+  },
+  {
+    "question": "Can I close my account?",
+    "answer": "If you want to close your account permanently, Seller Support can assist you. Keep in mind that you can use the Maintenance mode feature that will hide all your listings, or you can deactivate or remove your listings entirely but hold on to your account for future use. Before you close your account permanently, please cancel and remove your listings and resolve all transactions.",
+    "faq_topic_id": 1
+  },
+  {
+    "question": "How do I manage my merchant account?",
+    "answer": "Use will get access to a full featured Merchant Dashboard to manage all aspects of selling on :marketplace, like manage your selling account, add product information, make inventory updates, manage orders, and manage users.",
+    "faq_topic_id": 2
+  },
+  {
+    "question": "How many items i can add on my inventory?",
+    "answer": "It depends on which sbscription you choose. Please visit the pricing section for detail.",
+    "faq_topic_id": 2
+  },
+  {
+    "question": "How will I know when I have a sale?",
+    "answer": ":marketplace notifies you by email when you receive an order. You can change the notification settings in your account settings.",
+    "faq_topic_id": 2
+  },
+  {
+    "question": "Can I offer gift-wrap and packaging services to my customers?",
+    "answer": "Yes. Our packaging service allows customers to choose when they check out, you can make the options available for any individual item on your listing page.",
+    "faq_topic_id": 2
+  },
+  {
+    "question": "How much does it cost to sell on :marketplace?",
+    "answer": ":marketplace offers different selling plans for a monthly subscription fee plus per-item selling fees, which vary by subscriptions. Please visit the pricing section for detail.",
+    "faq_topic_id": 3
+  },
+  {
+    "question": "Is there any hidden cost?",
+    "answer": "No",
+    "faq_topic_id": 3
+  }
+]

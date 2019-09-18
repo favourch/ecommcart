@@ -1,0 +1,38 @@
+[
+  {
+    "iso_3166_2": "B",
+    "name": "Burgenland"
+  },
+  {
+    "iso_3166_2": "K",
+    "name": "Kärnten"
+  },
+  {
+    "iso_3166_2": "NÖ",
+    "name": "Niederösterreich"
+  },
+  {
+    "iso_3166_2": "OÖ",
+    "name": "Oberösterreich"
+  },
+  {
+    "iso_3166_2": "S",
+    "name": "Salzburg"
+  },
+  {
+    "iso_3166_2": "ST",
+    "name": "Steiermark"
+  },
+  {
+    "iso_3166_2": "T",
+    "name": "Tirol"
+  },
+  {
+    "iso_3166_2": "V",
+    "name": "Vorarlberg"
+  },
+  {
+    "iso_3166_2": "W",
+    "name": "Wien"
+  }
+]
